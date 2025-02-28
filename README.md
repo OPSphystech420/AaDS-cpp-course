@@ -1,1 +1,1 @@
-Algorithms and Data Structures / C++ course
+**Algorithms and Data Structures / C++ course**
