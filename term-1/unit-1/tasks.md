@@ -1,17 +1,17 @@
 ## Задачи ##
-- A\*. Жизнь на Эндоре / [tasks](#a-жизнь-на-эндоре--solutions) / [solutions](solutions/A*.cpp)
+- A\*. Жизнь на Эндоре / [task](#a-жизнь-на-эндоре--solution--tasks-list) / [solution](solutions/A*.cpp)
   
-- B\*. Тетрадка / [tasks](#b-тетрадка--solutions) / [solutions](solutions/B*.cpp)
+- B\*. Тетрадка / [task](#b-тетрадка--solution--tasks-list) / [solution](solutions/B*.cpp)
   
-- C\*. Мирные ферзи / [tasks](#c-мирные-ферзи--solutions) / [solutions](solutions/C*.cpp)
+- C\*. Мирные ферзи / [task](#c-мирные-ферзи--solution--tasks-list) / [solution](solutions/C*.cpp)
   
-- D\*. Фишки / [tasks](#d-фишки--solutions) / [solutions](solutions/D*.cpp)
+- D\*. Фишки / [task](#d-фишки--solution--tasks-list) / [solution](solutions/D*.cpp)
   
-- E\*. Монетки / [tasks](#e-монетки--solutions) / [solutions](solutions/E*.cpp)
+- E\*. Монетки / [task](#e-монетки--solution--tasks-list) / [solution](solutions/E*.cpp)
   
-- F\*. Сабакк / [tasks](#f-сабакк--solutions) / [solutions](solutions/F*.cpp)
+- F\*. Сабакк / [task](#f-сабакк--solution--tasks-list) / [solution](solutions/F*.cpp)
 
-# A\*. Жизнь на Эндоре / [solutions](solutions/A*.cpp)
+# A\*. Жизнь на Эндоре / [solution](solutions/A*.cpp) / [tasks list](#задачи)
 
 | Ограничение времени  | 1 секунда |
 |----------------------|----------|
@@ -62,7 +62,7 @@
 
 ---
 
-# B\*. Тетрадка / [solutions](solutions/B*.cpp)
+# B\*. Тетрадка / [solution](solutions/B*.cpp) / [tasks list](#задачи)
 
 | Ограничение времени  | 1 секунда |
 |----------------------|----------|
@@ -135,7 +135,7 @@ Line
 
 ---
 
-# C\*. Мирные ферзи / [solutions](solutions/C*.cpp)
+# C\*. Мирные ферзи / [solution](solutions/C*.cpp) / [tasks list](#задачи)
 
 | Ограничение времени  | 1 секунда |
 |----------------------|----------|
@@ -175,7 +175,7 @@ Line
 
 ---
 
-# D\*. Фишки / [solutions](solutions/D*.cpp)
+# D\*. Фишки / [solution](solutions/D*.cpp) / [tasks list](#задачи)
 
 | Ограничение времени  | 1 секунда |
 |----------------------|----------|
@@ -215,7 +215,7 @@ Line
 
 ---
 
-# E\*. Монетки / [solutions](solutions/E*.cpp)
+# E\*. Монетки / [solution](solutions/E*.cpp) / [tasks list](#задачи)
 
 | Ограничение времени  | 1.5 секунды |
 |----------------------|------------|
@@ -251,7 +251,7 @@ Line
 
 ---
 
-# F\*. Сабакк / [solutions](solutions/F*.cpp)
+# F\*. Сабакк / [solution](solutions/F*.cpp) / [tasks list](#задачи)
 
 | Ограничение времени  | 1 секунда |
 |----------------------|----------|
