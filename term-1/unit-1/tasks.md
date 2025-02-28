@@ -1,7 +1,17 @@
 ## Задачи ##
+- A\*. Жизнь на Эндоре / [tasks](#a-жизнь-на-эндоре--solutions) / [solutions](solutions/A*.cpp)
+  
+- B\*. Тетрадка / [tasks](#b-тетрадка--solutions) / [solutions](solutions/B*.cpp)
+  
+- C\*. Мирные ферзи / [tasks](#c-мирные-ферзи--solutions) / [solutions](solutions/C*.cpp)
+  
+- D\*. Фишки / [tasks](#d-фишки--solutions) / [solutions](solutions/D*.cpp)
+  
+- E\*. Монетки / [tasks](#e-монетки--solutions) / [solutions](solutions/E*.cpp)
+  
+- F\*. Сабакк / [tasks](#f-сабакк--solutions) / [solutions](solutions/F*.cpp)
 
-
-# [A\*. Жизнь на Эндоре](solutions/A*.cpp)
+# A\*. Жизнь на Эндоре / [solutions](solutions/A*.cpp)
 
 | Ограничение времени  | 1 секунда |
 |----------------------|----------|
@@ -52,7 +62,7 @@
 
 ---
 
-# [B\*. Тетрадка](solutions/B*.cpp)
+# B\*. Тетрадка / [solutions](solutions/B*.cpp)
 
 | Ограничение времени  | 1 секунда |
 |----------------------|----------|
@@ -125,7 +135,7 @@ Line
 
 ---
 
-# [C\*. Мирные ферзи](solutions/C*.cpp)
+# C\*. Мирные ферзи / [solutions](solutions/C*.cpp)
 
 | Ограничение времени  | 1 секунда |
 |----------------------|----------|
@@ -165,7 +175,7 @@ Line
 
 ---
 
-# [D\*. Фишки](solutions/D*.cpp)
+# D\*. Фишки / [solutions](solutions/D*.cpp)
 
 | Ограничение времени  | 1 секунда |
 |----------------------|----------|
@@ -205,7 +215,7 @@ Line
 
 ---
 
-# [E\*. Монетки](solutions/E*.cpp)
+# E\*. Монетки / [solutions](solutions/E*.cpp)
 
 | Ограничение времени  | 1.5 секунды |
 |----------------------|------------|
@@ -241,7 +251,7 @@ Line
 
 ---
 
-# [F\*. Сабакк](solutions/F*.cpp)
+# F\*. Сабакк / [solutions](solutions/F*.cpp)
 
 | Ограничение времени  | 1 секунда |
 |----------------------|----------|
